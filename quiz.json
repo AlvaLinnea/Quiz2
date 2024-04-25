@@ -1,0 +1,19 @@
+"quiz": [
+    {
+        "spørsmål": "Hva er den vanligste fargemodellen for skjermgrafikk?",
+        "svar": "RGB"
+      },
+    {
+      "spørsmål": "Hva er verdens høyeste fjell?",
+      "alternativ":[
+        "Hei",
+        "Hallo",
+        "Hade"
+      ],
+      "svar": "Hallo"
+    },
+    {
+      "spørsmål": "Hva er hovedstaden i Frankrike?",
+      "svar": "Paris"
+    }
+  ]
